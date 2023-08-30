@@ -4,7 +4,7 @@ I am a proficient software developer with a specialized focus on crafting exempl
 
 <hr>
 
-- 💬 Ask me about Python | **Django | **Django Rest Framework | React Native | JavaScript
+- 💬 Ask me about Python | Django | Django Rest Framework | React Native | JavaScript
 
 - 📫 Let's Talk **alts.devs@gmail.com**
 
