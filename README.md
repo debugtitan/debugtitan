@@ -1,6 +1,6 @@
 <h2> Hello 👋 , I'm Uche David | Python Backend Developer.</h2>
 
-I am a proficient software developer with a specialized focus on crafting exemplary mobile applications, architecting robust RESTful APIs.
+I am a proficient software developer with a specialized focus on architecting robust RESTful APIs.
 
 <hr>
 
