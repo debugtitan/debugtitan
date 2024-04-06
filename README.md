@@ -8,7 +8,9 @@ I am a proficient software developer with a specialized focus on architecting ro
 
 - Ask me about Nodejs | JavaScript| ExpressJs
 
-- 📫 Let's Talk **debugtitan.hub@outlook.com**
+- Telegram: **altcoinist**
+- Discord: debugtitan
+- 📫 Let's Talk **debugtitan.hub@outlook.com**  
 - **alts.devs@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
