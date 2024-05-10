@@ -1,4 +1,4 @@
-<h2> Hello 👋 , I'm Uche David | Backend, Bot, IAC Developer.</h2>
+<h2> Hello 👋 , I'm Uche David | Backend, Web3, Bot Developer.</h2>
 
 I am a proficient software developer with a specialized focus on architecting robust RESTful API's and developing advanced bots.
 
