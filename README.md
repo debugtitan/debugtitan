@@ -10,7 +10,7 @@ I am a proficient software developer with a specialized focus on architecting ro
 
 - Telegram: **altcoinist**
 - Discord: debugtitan
-- 📫 Let's Talk **debugtitan.hub@outlook.com**  
+- 📫 Let's Talk **debugtitan@outlook.com**  
 - **alts.devs@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
